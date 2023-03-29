@@ -1,0 +1,11 @@
+#SampleID	BarcodeSequence	salinity	depth	date	city	season	weather	quarter
+barakaldo_surface_2014-08-28	TGACAACCGAAT	33	surface	2014-08-28	barakaldo	summer	warm	3
+barakaldo_surface_2014-10-01	ACACCTGCGATC	33	surface	2014-10-01	barakaldo	autumn	warm	4
+barakaldo_surface_2014-10-28	CTTTCGTTCAAC	33	surface	2014-10-28	barakaldo	autumn	cold	4
+barakaldo_surface_2014-11-27	GCACCTGTTGAA	33	surface	2014-11-27	barakaldo	autumn	cold	4
+barakaldo_surface_2014-12-27	TAGAGGCGTAGG	33	surface	2014-12-27	barakaldo	winter	cold	4
+getxo_surface_2014-08-28	GAAGACAGCGAC	35	surface	2014-08-28	getxo	summer	warm	3
+getxo_surface_2014-10-01	TGTGGTGATGTA	35	surface	2014-10-01	getxo	autumn	warm	4
+getxo_surface_2014-10-28	AGATGTCCGTCA	35	surface	2014-10-28	getxo	autumn	cold	4
+getxo_surface_2014-11-27	AAGCAGATTGTC	35	surface	2014-11-27	getxo	autumn	cold	4
+getxo_surface_2014-12-27	ATCTTGGAGTCG	35	surface	2014-12-27	getxo	winter	cold	4
